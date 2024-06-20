@@ -1,4 +1,5 @@
 # Transfer Learning - Training Results
+
 <details>
   <summary><h2>CUB200</h2></summary>
   
@@ -57,6 +58,8 @@
   </details>
 </details>
 
+<hr>
+
 <details>
   <summary><h2>ani</h2></summary>
   
@@ -114,6 +117,8 @@
     <img src='./Graphs/pred_ani_efficientnetv2l.png'/><br><hr>
   </details>
 </details>
+
+<hr>
 
 <details>
   <summary><h2>snack</h2></summary>
