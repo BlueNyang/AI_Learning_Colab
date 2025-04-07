@@ -1,3 +1,7 @@
+[AI_Learning.ipynb](https://gist.github.com/BlueNyang/5740331ec7d11ee86a03849bb3334172)
+
+[Transfer_Learning.ipynb](https://gist.github.com/BlueNyang/ee0b17860beca029091971abf22e2b5f)
+
 # Transfer Learning - Training Results
 
 <details>
